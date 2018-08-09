@@ -68,7 +68,7 @@ These days, using `data-` attributes is not encouraged. One reason is that users
 ###### References
 
 * http://html5doctor.com/html5-custom-data-attributes/
-* https://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes
+* https://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-attributes
 
 [[↑] Back to top](#html-questions)
 
